@@ -13,7 +13,7 @@ public class F02Fragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Encapsulation dans une vue
-        View view = inflater.inflate(R.layout.fragment_f01, container, false);
+        View view = inflater.inflate(R.layout.fragment_f02, container, false);
         return view;
     }
 }
